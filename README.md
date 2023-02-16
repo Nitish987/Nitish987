@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nitish987
 - 👀 I’m interested in programming using Java, Android Java, Javascript, Python, django framework and web development
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently learning Flutter and blockchain
 - 💞️ I’m looking to collaborate on Java, Javascript and Python Projects
 - 📫 How to reach me? -> Contact me through - nk98721000@gmail.com
 
