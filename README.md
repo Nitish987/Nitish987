@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nitish987
-- 👀 I’m interested in programming Java, Android, Dart, Flutter, HTML, CSS, Javascript, Typescript, Nodejs, Reactjs, Redux, Python, Django.
+- 👀 I’m interested in programming Java, Android, Dart, Flutter, HTML, CSS, Javascript, Typescript, Nodejs, Reactjs, Redux, Angular, Rxjs, Expressjs, Python, Django.
 - 🌱 I’m currently learning Spring framework and Docker.
 - 💞️ I’m looking to collaborate on Java, Javascript, Nodejs, Dart, and Python Projects
 - 📫 How to reach me? -> Contact me through - nk98721000@gmail.com
