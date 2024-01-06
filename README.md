@@ -8,7 +8,7 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitish987&theme=dracula&hide_border=true)
 
-![Skills](https://skillicons.dev/icons?i=java,spring,androidstudio,html,css,js,ts,angular,react,redux,express,nodejs,py,django,flutter,mongodb,mysql,postgres,sqlite,firebase,gcp,postman,vscode,figma)
+![Skills](https://skillicons.dev/icons?i=java,spring,androidstudio,gradle,maven,dart,flutter,html,css,js,ts,angular,react,redux,express,nodejs,py,django,mongodb,mysql,postgres,sqlite,redis,firebase,gcp,postman,vscode,idea,linux,git,gihub,figma,xd)
 
 <!---
 Nitish987/Nitish987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
