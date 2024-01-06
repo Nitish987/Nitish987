@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Java, Javascript, Typescript, Nodejs, Dart, and Python Projects
 
-- 🎖️ Views
-
 ![Views](https://komarev.com/ghpvc/?username=Nitish987&color=brightgreen)
 
 - ⚡ My contribution stats
