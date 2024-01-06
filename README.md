@@ -4,12 +4,15 @@
 - 📫 How to reach me? -> Contact me through - nk98721000@gmail.com
 
 - 🎖️ Views
+
 ![Views](https://komarev.com/ghpvc/?username=Nitish987&color=brightgreen)
 
 - ⚡ My contribution stats
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitish987&theme=dracula&hide_border=true)
 
 - 💻 Technologies, I use
+
 ![Skills](https://skillicons.dev/icons?i=java,spring,gradle,maven,dart,flutter,html,css,js,ts,angular,react,redux,express,nodejs,py,django,mongodb,mysql,postgres,sqlite,redis,firebase,gcp,postman,vscode,idea,androidstudio,linux,git,github,figma,xd)
 
 <!---
