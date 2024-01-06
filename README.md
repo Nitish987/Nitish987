@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nitish987 (Nitish Kumar)
-- 🔥 Portfolio website (https://technitish.com)
+- 🔥 Portfolio website https://technitish.com
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Java, Javascript, Typescript, Nodejs, Dart, and Python Projects
 
