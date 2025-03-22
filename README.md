@@ -12,7 +12,7 @@
 
 - 💻 Technologies, I use
 
-![Skills](https://skillicons.dev/icons?i=java,spring,gradle,maven,dart,flutter,html,css,js,ts,angular,react,redux,express,nodejs,py,django,mongodb,mysql,postgres,sqlite,redis,kafka,firebase,gcp,postman,vscode,idea,androidstudio,linux,git,github,figma,xd&perline=11)
+![Skills](https://skillicons.dev/icons?i=java,spring,gradle,maven,dart,flutter,html,css,js,ts,angular,react,redux,express,nodejs,py,django,mongodb,mysql,postgres,sqlite,redis,kafka,firebase,gcp,postman,vscode,idea,androidstudio,linux,git,github,figma,xd,unreal&perline=11)
 
 - 📫 How to reach me? -> Contact me through - contact.dev.nitish@gmail.com
 
